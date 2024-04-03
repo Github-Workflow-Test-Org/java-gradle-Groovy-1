@@ -1,1 +1,1 @@
-JAVA Gradle Groovy Project
+JAVA Gradle Groovy Projects
